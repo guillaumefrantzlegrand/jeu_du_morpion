@@ -4,8 +4,8 @@ Bienvenue dans notre morpion ! Après avoir cloné notre git, n'oublie pas de 'b
 
 ---
 
-Guillaume Legrand
-Cedric Bouchaud
+Guillaume Legrand,
+Cedric Bouchaud,
 Paul Floyd Bitsindou
 
 ---
